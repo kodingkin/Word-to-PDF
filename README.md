@@ -8,6 +8,8 @@ Step 2: run wordtoPDF.py
 
 Requirement:
 
-1.Office Installed
+1. Office Installed
 
-2.On Window or MacOS
+2. On Window or MacOS
+
+3. pip install docx2pdf
